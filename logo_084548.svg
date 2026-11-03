@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">AIWBT mark</title><desc id="desc">A bright intelligence node connected to a constellation of ideas.</desc>
+  <rect width="128" height="128" rx="30" fill="#f2eee9"/><circle cx="64" cy="64" r="48" fill="#563d61"/>
+  <path d="M64 35v58M35 64h58M44 44l40 40m0-40L44 84" stroke="#bca4d2" stroke-linecap="round" stroke-width="3" opacity=".9"/>
+  <circle cx="64" cy="64" r="17" fill="#f7f3e9"/><circle cx="64" cy="64" r="8" fill="#e98452"/>
+  <circle cx="64" cy="35" r="5" fill="#c4e47b"/><circle cx="93" cy="64" r="5" fill="#c4e47b"/><circle cx="35" cy="64" r="5" fill="#c4e47b"/><circle cx="84" cy="44" r="4" fill="#f7f3e9"/><circle cx="44" cy="84" r="4" fill="#f7f3e9"/>
+</svg>
